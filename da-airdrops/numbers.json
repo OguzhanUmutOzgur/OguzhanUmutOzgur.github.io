@@ -1,0 +1,50 @@
+[
+    {
+        "total_wagered": 14598.657,
+        "total_played": 19949,
+        "average_pot": 0.7317,
+        "average_fee": 2.63,
+        "total_fee": 383.94,
+        "70%_dist_holders": 268.76,
+        "10%_dist_tournament": 38.39,
+        "eligible_nfts": 3115,
+        "payout_per_nft": 0.0862,
+        "end_date": 1680440399
+    },
+    {
+        "total_wagered": 14293.657,
+        "total_played": 12804,
+        "average_pot": 1.1163,
+        "average_fee": 2.73,
+        "total_fee": 390.19,
+        "70%_dist_holders": 273.13,
+        "10%_dist_tournament": 39.01,
+        "eligible_nfts": 2530,
+        "payout_per_nft": 0.1079,
+        "end_date": 1681045199
+    },
+    {
+        "total_wagered": 11847.686,
+        "total_played": 8510,
+        "average_pot": 1.3922,
+        "average_fee": 2.76,
+        "total_fee": 326.99,
+        "70%_dist_holders": 228.89,
+        "10%_dist_tournament": 32.6,
+        "eligible_nfts": 2686,
+        "payout_per_nft": 0.0852,
+        "end_date": 1681649999
+    },
+    {
+        "total_wagered": 8316.46,
+        "total_played": 2925,
+        "average_pot": 2.8430,
+        "average_fee": 2.74,
+        "total_fee": 227.87,
+        "70%_dist_holders": 159.50,
+        "10%_dist_tournament": 22.78,
+        "eligible_nfts": 2919,
+        "payout_per_nft": 0.0546,
+        "end_date": 1682254799
+    }
+]
