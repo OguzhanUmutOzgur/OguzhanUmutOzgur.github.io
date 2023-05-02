@@ -46,5 +46,17 @@
         "eligible_nfts": 2919,
         "payout_per_nft": 0.0546,
         "end_date": 1682254799
+    },
+    {
+        "total_wagered": 20250.38,
+        "total_played": 11927,
+        "average_pot": 1.69,
+        "average_fee": 2.81,
+        "total_fee": 569.03,
+        "seventy_dist_holders": 398.32,
+        "ten_dist_tournament": 56.9,
+        "eligible_nfts": 2982,
+        "payout_per_nft": 0.1336,
+        "end_date": 1682899199
     }
 ]
